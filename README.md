@@ -1,6 +1,9 @@
 # Fresh Tomatoes
 This is the README for the Fresh Tomatoes Project.
 
+Running the program will generate an HTML file. When the page is displayed, 6 movie posters will appear. When clicked, 
+the trailer for that movie will play.
+
 ### Getting the project
 To run this project:
 * fork this repository to create your own copy of it in github.
