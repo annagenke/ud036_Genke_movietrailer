@@ -10,7 +10,7 @@ To run this project:
 * Then clone your ud036_Genke_movietrailer Repository to the environment you will be running the project. 
 
 ### Running the Project
-Python must be installed in order to run the project
+Python must be installed in order to run the project.
 
 To run the project, run the script in entertainment_center.py
 
