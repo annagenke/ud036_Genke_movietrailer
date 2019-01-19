@@ -37,6 +37,7 @@ hunger_games = media.Movie("The Hunger Games",
                            "https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
                            "https://www.youtube.com/watch?v=nvU1MnB_dAc")
 
+# creates an array of movie objects
 movies = [harry_potter_1, pirates_1, star_wars_4, avengers, guardians, lord_of_the_rings_1, hunger_games]
 
 fresh_tomatoes.open_movies_page(movies)
